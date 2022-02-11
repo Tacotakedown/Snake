@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\zz_School\C++ shit\snake\snake\main.cpp(78,11): warning C4553: '==': result of expression not used; did you intend '='?
+D:\zz_School\C++ shit\snake\snake\main.cpp(87,11): warning C4553: '==': result of expression not used; did you intend '='?
+D:\zz_School\C++ shit\snake\snake\main.cpp(136,20): warning C4018: '>': signed/unsigned mismatch
+  snake.vcxproj -> D:\zz_School\C++ shit\snake\Debug\snake.exe
